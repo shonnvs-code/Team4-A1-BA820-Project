@@ -1,7 +1,7 @@
 # Team4-A1-BA820-Project
 Group number: 4
 <br>
-Session: A1-BA820
+Section: A1-BA820
 <br>
 Group Members: Akhil Nair, Hemanth Kumar Gopi, Kai Tran, Shon Shaju
 <br>
